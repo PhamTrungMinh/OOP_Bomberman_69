@@ -4,9 +4,9 @@ import Bomberman.entities.Entity;
 import Bomberman.entities.block.Brick;
 import Bomberman.entities.block.Grass;
 import Bomberman.entities.block.Wall;
-import Bomberman.entities.enemy.Animal;
-import Bomberman.entities.enemy.Balloon;
-import Bomberman.entities.enemy.Oneal;
+import Bomberman.entities.character.Animal;
+import Bomberman.entities.character.Balloon;
+import Bomberman.entities.character.Oneal;
 import Bomberman.entities.item.FlameItem;
 import Bomberman.entities.item.SpeedItem;
 

@@ -1,4 +1,4 @@
-package Bomberman.entities.enemy;
+package Bomberman.entities.character;
 
 import javafx.scene.image.Image;
 import Bomberman.entities.Entity;

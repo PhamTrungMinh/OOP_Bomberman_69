@@ -1,6 +1,6 @@
 package Bomberman.control;
 
-import Bomberman.entities.enemy.*;
+import Bomberman.entities.character.*;
 import Bomberman.graphics.Sprite;
 
 import static Bomberman.entities.item.SpeedItem.*;

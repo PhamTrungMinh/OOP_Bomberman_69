@@ -1,7 +1,6 @@
 package Bomberman;
 
 import Bomberman.Sound.SoundManager;
-import Bomberman.entities.block.Grass;
 import javafx.animation.AnimationTimer;
 import javafx.application.Application;
 import javafx.scene.Group;
@@ -14,8 +13,8 @@ import javafx.stage.Stage;
 import Bomberman.control.Menu;
 import Bomberman.control.Move;
 import Bomberman.entities.Entity;
-import Bomberman.entities.enemy.Animal;
-import Bomberman.entities.enemy.Bomber;
+import Bomberman.entities.character.Animal;
+import Bomberman.entities.character.Bomber;
 import Bomberman.entities.block.Bomb;
 import Bomberman.entities.block.Portal;
 import Bomberman.graphics.Sprite;

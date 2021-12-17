@@ -1,14 +1,14 @@
 package Bomberman.levels;
 
 import javafx.scene.image.Image;
-import Bomberman.entities.enemy.Animal;
+import Bomberman.entities.character.Animal;
 import Bomberman.graphics.CreateMap;
 import Bomberman.graphics.Sprite;
 
 import static Bomberman.Main.*;
 import static Bomberman.Main.enemy;
 import static Bomberman.control.Menu.*;
-import static Bomberman.entities.enemy.Bomber.swapKill;
+import static Bomberman.entities.character.Bomber.swapKill;
 import static Bomberman.entities.block.Bomb.isBomb;
 import static Bomberman.entities.item.SpeedItem.speed;
 import static Bomberman.Sound.SoundManager.isSoundDied;
